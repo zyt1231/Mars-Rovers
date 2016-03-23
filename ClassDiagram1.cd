@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="mars_rovers.Parser" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mars_rovers.PlateauArea" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAEAABAAAA=</HashCode>
+      <FileName>PlateauArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mars_rovers.Position" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAABAAAAA=</HashCode>
+      <FileName>Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mars_rovers.Program" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mars_rovers.Rover" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAAAAAAIAAAAAIAAAAAAAAAAAAAACAAAABAA=</HashCode>
+      <FileName>Rover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="mars_rovers.heading" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhCIAAA=</HashCode>
+      <FileName>Rover.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
